@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "files.exclude": {
+		"**/.git": true,
+		"**/.DS_Store": true,
+    "node_modules/**": true,
+    "web/**/*.js": true,
+    "web/**/*.map": true
+	},
+  "files.watcherExclude": {
+		"**/.git/objects/**": true,
+    "node_modules/**": true,
+    "web/**/*.js": true,
+    "web/**/*.map": true
+	}
+}

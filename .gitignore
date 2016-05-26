@@ -1,0 +1,5 @@
+web/node_modules/
+web/typings
+web/**/*.js
+web/**/*.map
+node_modules/
